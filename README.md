@@ -20,7 +20,7 @@ A aplicação permite que o usuário adicione novas tarefas, edite, remova e mar
 - PHP
 - Banco de dados: MySQL
 
-## Autor 
+## Autor(a)
 
 Letícia Cristina dos Santos
 
