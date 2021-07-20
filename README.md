@@ -24,4 +24,4 @@ A aplicação permite que o usuário adicione novas tarefas, edite, remova e mar
 
 Letícia Cristina dos Santos
 
-https://www.linkedin.com/in/letícia-cristina-851b31183/
+https://www.linkedin.com/in/letícia-santos-851b31183/
